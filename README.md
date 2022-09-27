@@ -7,8 +7,7 @@
 
 ---
 
-<img src="https://activity-graph.herokuapp.com/graph?username=3FrotoDev&custom_title=%27s%20Contribution%20Graph&theme=react-dark&count-private=true">
-
+[![3Forto's github activity graph](https://activity-graph.herokuapp.com/graph?username=3FrotoDev&theme=dracula)](https://github.com/3FrotoDev/github-readme-activity-graph)
 <br>
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=3FrotoDev&langs_count=8&layout=compact&theme=react&hide_border=true&bg_color=0D1117">
