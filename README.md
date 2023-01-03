@@ -28,7 +28,7 @@
 
 ### Contact Me ✨
 
-![Discord](https://discord.c99.nl/widget/theme-3/785279311196061716.png)
+![Discord](https://discord.c99.nl/widget/theme-2/956281203042955375.png)
 
 ---
 
