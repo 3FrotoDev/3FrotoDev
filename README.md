@@ -33,8 +33,11 @@
 ---
 
 ### My Skills ✨
-
-[![My Skills](https://skillicons.dev/icons?i=gmail,vscode,nodejs,js,heroku,git,github,discord&perline=3)](https://skillicons.dev)
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=gmail,vscode,nodejs,js,heroku,git,github,c,vim" />
+  </a>
+</p>
 
 ---
 ### Spotify Playing 🎧
