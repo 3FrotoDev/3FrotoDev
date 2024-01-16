@@ -34,7 +34,7 @@
 
 ### My Skills ✨
 
-[![My Skills](https://skillicons.dev/icons?i=aws,gcp,azure,react,vue,flutter&perline=3)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=gmail,vscode,nodejs,js,heroku,git,github,discord&perline=3)](https://skillicons.dev)
 
 ---
 ### Spotify Playing 🎧
