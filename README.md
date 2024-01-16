@@ -32,6 +32,11 @@
 
 ---
 
+### My Skills ✨
+
+[![My Skills](https://skillicons.dev/icons?i=aws,gcp,azure,react,vue,flutter&perline=3)](https://skillicons.dev)
+
+---
 ### Spotify Playing 🎧
 
 [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=3cxi2oanta1ls4ejiu9wbf3xg&cover_image=true&theme=default)](https://github.com/kittinan/spotify-github-profile)
